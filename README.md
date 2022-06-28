@@ -3,4 +3,4 @@
 
 ## Description
 
-this is about learning and practicing GraphQL.
+this repo is about learning and practicing GraphQL with Frontend Reactjs.
