@@ -1,0 +1,37 @@
+[
+  {
+    "clientId":"62b90f126f598138124aba4b",
+    "name": "eCommerce Website",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.",
+    "status": "In Progress"
+  },
+  {
+    "clientId":"62b90f126f598138124aba4c",
+    "name": "Dating App",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.",
+    "status": "In Progress"
+  },
+  {
+    "clientId":"62b90f126f598138124aba4d",
+    "name": "SEO Project",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.",
+    "status": "In Progress"
+  },
+  {
+    "clientId":"62b90f126f598138124aba4d",
+    "name": "Design Prototype",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.",
+    "status": "Done"
+  },
+  {
+    "clientId":"62b90f126f598138124aba4e",
+    "name": "Auction Website",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.",
+    "status": "In Progress"
+  }
+]
